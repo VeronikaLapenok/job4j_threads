@@ -1,6 +1,6 @@
 # job4j.Middle - online course
 
-Author: Veronika Lapenok<br>
+Author: Veranika Lapianok<br>
 Mail: <veronika.lapenok@mail.ru><br>
 
 ## job4j_threads project
